@@ -6,7 +6,8 @@ Este es un proyecto para la asignatura de Sistemas Operativos Avanzados en la Fa
 
 Para iniciar el sistema operativo, ejecute el siguiente comando:
 
-```make emul
+```
+make emul
 
 Esto lanzará el emulador Bochs y cargará el sistema operativo.
 
