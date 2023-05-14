@@ -1,6 +1,6 @@
-# Zeos - Sistema Operativo Avanzado
+# Zeos - Sistemas Operativos Avanzados
 
-Este es un proyecto para la asignatura de Sistemas Operativos Avanzados en la Facultad de Informática de Barcelona.
+Proyecto del curso 2022/20223 Q2 de Sistemas Operativos Avanzados-FIB.
 
 ## Inicio rápido
 
