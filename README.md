@@ -8,7 +8,7 @@ Para iniciar el sistema operativo, ejecute el siguiente comando:
 
 ```
 make emul
-
+```
 Esto lanzará el emulador Bochs y cargará el sistema operativo.
 
 ## Pruebas
